@@ -1,2 +1,3 @@
-# Prepcourse-Henry
-Este es un repositortio del modulo2 dep Prepcourse de Henry
+ezequiel aguilera 
+
+este proyecto es una prueba de repositorio y clonarlo a mi escritorio
